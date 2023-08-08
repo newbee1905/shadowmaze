@@ -1,0 +1,7 @@
+[submodule "deps/SDL"]
+	path = deps/SDL
+	url = https://github.com/libsdl-org/SDL
+	branch = release-2.28.x
+[submodule "deps/cunit"]
+	path = deps/cunit
+	url = https://gitlab.com/cunity/cunit/

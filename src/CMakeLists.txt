@@ -1,0 +1,5 @@
+get_filename_component(APP shadowmaze NAME)
+add_executable(${APP} main.c)
+# add_library(kd utils.cc errors.cc grid.cc agent.cc search.cc search/dfs.cc search/bfs.cc search/gbfs.cc search/astar.cc search/dijkstra.cc search/idastar.cc)
+# target_link_libraries(${APP} kd)
+# target_link_libraries(gen_test kd)

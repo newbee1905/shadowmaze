@@ -1,0 +1,2 @@
+-I./deps/SDL/include/
+-I./deps/cunit/CUnit/
